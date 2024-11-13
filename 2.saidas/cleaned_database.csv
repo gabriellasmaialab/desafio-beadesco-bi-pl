@@ -1,0 +1,41 @@
+site,channel,format,goal,planned,real,delta,imp,clicks,CTR (%),investment,CPC,CPM,Campaign
+Yahoo!,Search,Links Patrocinados,Cliques,8333.0,4449.0,0.5339013560542422,1727826,4449,0.0025749120571168624,2506.19,0.5633153517644415,563.3153517644415,Always On
+Google,Search,Links Patrocinados,Cliques,25000.0,14245.0,0.5698,701002,14245,0.020320912065871423,12911.58,0.9063938223938224,906.3938223938223,Always On
+Meta,ROS,Sponsored Stories,Cliques,117769.57,120839.0,1.026063014410259,21211878,120839,0.005696761031720058,40304.8625,0.3335418407964316,333.54184079643164,Always On
+Meta,ROS,Page Post Desktop,Cliques,40820.0,81348.0,1.9928466438020578,33101122,81348,0.0024575601999231324,17847.6,0.21939814131877855,219.39814131877856,Always On
+Meta,ROS,Page Post Mobile,Cliques,16810.050000000003,36882.0,2.1940446340135806,966874,36882,0.038145611527458594,4511,0.12230898541293857,122.30898541293857,Always On
+Google,Rede de Conteúdo,Super Banner,Cliques,34261.0,54393.0,1.5876068999737312,21374039,54393,0.002544816166939716,28745.59,0.5284795837699704,528.4795837699704,Flight Promocional
+Youtube,ROS,Super Banner,View,124380.0,135760.0,1.0914938092940987,1532298,20419,0.013325736899741434,27687.25,1.3559552377687447,1355.9552377687446,Flight Promocional
+Facebook,ROS,Fan Ad,Cliques,0.0,0.0,,0,0,,0,,,Flight Promocional
+Facebook,ROS,Social Ad,Cliques,0.0,0.0,,0,0,,0,,,Flight Promocional
+Realmedia,Entretenimento / Música,Retângulo / Super Banner,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+MSN,Lutador MMA,Super Banner,impressões,820313.0,1235539.0,1.5061799581379303,1235539,1128,0.0009129618733200651,18814.9,16.679875886524822,16679.875886524824,Flight Promocional
+MSN,Lutador MMA,Super Banner,impressões,820313.0,1188405.0,1.4487214026840973,1188405,179,0.00015062205224649846,14211.58,79.39430167597766,79394.30167597765,Flight Promocional
+MSN,Lutador MMA,Selo,impressões,1136358.0,237338.0,0.20885847593804066,237338,22,9.269480656279231e-05,508.86,23.13,23130.0,Flight Promocional
+Legendários,ROS,Reexibição Merchan,patrocínio,0.0,0.0,,0,0,,0,,,Flight Promocional
+Legendários,ROS,Super Banner / Retângulo,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Ed. Abril,Playboy,Retângulo / Super Banner,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Ed. Abril,VIP,Retângulo / Super Banner,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Veezeo,HH 15/24,Barra,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Veezeo,HH 15/24,Barra,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Veezeo,HH 15/24,Barra Expandida (min 30% de expansão),impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Agora é Tarde,ROS,Retângulo,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Vírgula,ROS,Retângulo,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Vírgula,ROS,Super Banner,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Paparazzo,ROS,Retângulo,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+.Mobi,Angry Birds,Banner Richmedia in Game,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+.Mobi,Angry Birds,Banner Richmedia,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+Multishow - Planeta Atlântida,ROS,Super Banner ou Super Banner Expansível,impressões,0.0,0.0,,0,0,,0,,,Flight Promocional
+TERRA,Home Page,Retângulo,impressões,15000.0,14719.0,0.9812666666666666,14719,9,0.000611454582512399,277,30.77777777777778,30777.777777777777,Flight Promocional
+RBS - Blogs ,Blog Filtros,Super Banner,impressões,250000.0,264157.0,1.056628,264157,138,0.0005224165931623997,1950,14.130434782608695,14130.434782608696,Flight Promocional
+RBS - Atlantida.com.br,RS + SC (ROS),Barra Lateral,impressões,250000.0,271317.0,1.085268,271317,36,0.00013268611992613805,3950,109.72222222222223,109722.22222222223,Flight Promocional
+ClickRBS - RS,Home Page,Interstitial,Diária,,,,284638,4383,0.01539850617275276,3000,0.6844626967830253,684.4626967830253,Flight Promocional
+ClickRBS - SC,Home Page,Interstitial,Diária,,,,53815,903,0.016779708259778873,1960,2.1705426356589146,2170.5426356589146,Flight Promocional
+Atlantida,Home Page,Interstitial,Diária,,,,36582,558,0.015253403313104806,590,1.0573476702508962,1057.347670250896,Flight Promocional
+UOL,Network,Pré Roll,View,981250.0,2672571.0,2.7236392356687897,2672571,128281,0.04799909899493783,5400,0.04209508812684653,42.09508812684653,Flight Promocional
+UOL,Network,Selo,impressões,981250.0,2903568.0,2.9590501910828024,2903568,587,0.00020216506036710696,700,1.192504258943782,1192.504258943782,Flight Promocional
+Vevo - Carnaval,Network,Selo,impressões,2292137.0,9127452.0,3.982070879707452,9127452,65813,0.0072104460259007665,2405.648,0.036552778326470456,36.55277832647045,Flight Promocional
+Vevo - Carnaval,Network,Selo,impressões,2292138.0,8173933.0,3.566073683172654,8173933,3289,0.0004023766771760914,935.2196,0.28434770446944363,284.3477044694436,Flight Promocional
+Vevo - Carnaval,"Wide Media - iphone, ipad e android",Pré-Roll,View,226041.0,298352.0,1.3199021416468695,298352,3501,0.011734461307448919,1000,0.2856326763781777,285.6326763781777,Flight Promocional
+UOL,"Wide Media - iphone, ipad e android",Mobile Banner Ads,impressões,142248.0,58483.0,0.4111340756987796,58483,412,0.007044782244412906,1000,2.4271844660194173,2427.1844660194174,Flight Promocional
+UOL,"Wide Media - iphone, ipad e android",Mobile Banner Ads,impressões,142248.0,1601.0,0.011254991282829988,1601,42,0.02623360399750156,1000,23.80952380952381,23809.52380952381,Flight Promocional
